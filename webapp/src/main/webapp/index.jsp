@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to Madhu Learnings, Try something everytime!!!</h1>
-    <p>Please fill in this form! There are many funny tasks you can perfom here </p>
+    <h1>Welcome to Madhu Learnings, Try something new adventures everytime!!!</h1>
+    <p>Please fill in this form! There are many funny tasks you can perfom here .. In our Cloud and  DevOps Camp... </p>
     <hr>
     <br>
 
