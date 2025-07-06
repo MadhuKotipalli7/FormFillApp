@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to Madhu Learnings, Try something new adventures everytime!!!</h1>
-    <p>Please fill in this form! There are many funny tasks you can perfom here .. In our Cloud and  DevOps Camp... </p>
+    <h1>Welcome to Cloud and DevOps learnings, Try something new everytime!!!</h1>
+    <p>Please fill in this form! There are many tasks you can perfom here.. In our Cloud and DevOps Camp... </p>
     <hr>
     <br>
 
@@ -13,15 +13,16 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="email"><b>BackUp-Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
-
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+
+    <label for="Qualification"><b>Highest Qualification</b></label>
+    <input type="text" placeholder="Enter Qualification" name="Qualification" id="Qualification" required>
+    <br>
+
+    <p>By creating an account you agree to our <a href="#">Terms and  Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
