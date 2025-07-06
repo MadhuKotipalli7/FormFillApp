@@ -22,6 +22,12 @@
     <input type="text" placeholder="Enter Qualification" name="Qualification" id="Qualification" required>
     <br>
 
+
+    <label for="mobile-no"><b>Mobile No</b></label>
+    <input type="text" placeholder="mobile no" name="mobile no" id="mobile no" required>
+    <br>
+
+
     <p>By creating an account you agree to our <a href="#">Terms and  Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
