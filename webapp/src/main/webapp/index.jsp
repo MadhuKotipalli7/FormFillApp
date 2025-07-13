@@ -22,6 +22,11 @@
     <input type="text" placeholder="Enter Qualification" name="Qualification" id="Qualification" required>
     <br>
 
+    <label for="Percentage"><b>Percentage</b></label>
+    <input type="text" placeholder="Percentage" name="Percentage" id="Percentage" required>
+    <br>
+
+
 
     <label for="mobile-no"><b>Mobile No</b></label>
     <input type="text" placeholder="mobile no" name="mobile no" id="mobile no" required>
