@@ -26,7 +26,9 @@
     <input type="text" placeholder="Percentage" name="Percentage" id="Percentage" required>
     <br>
 
-
+    <label for="Address"><b>Address</b></label>
+    <input type="text" placeholder="Address" name="Address" id="Address" required>
+    <br>
 
     <label for="mobile-no"><b>Mobile No</b></label>
     <input type="text" placeholder="mobile no" name="mobile no" id="mobile no" required>
