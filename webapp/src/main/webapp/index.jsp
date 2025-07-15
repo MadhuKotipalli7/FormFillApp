@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Welcome to Cloud and DevOps learnings, Try something new everytime!!!</h1>
     <p>Please fill in this form! There are many tasks you can perfom here.. In our Cloud and DevOps Camp... </p>
+    <p>Skills: AWS,Azure, DevOps/SRE Tools Stack, System Design, Programming/Scripting, Networking Fundamentals</p>
     <hr>
     <br>
 
